@@ -6,6 +6,10 @@
     --dark: #12141D;
 }
 
+body{
+    overflow: hidden;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
